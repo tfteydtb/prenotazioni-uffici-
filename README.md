@@ -1,4 +1,4 @@
-# prenotazioni-uffici-
+# prenotazioni-uffici galilux progetto tps
 Sistema web per la gestione e prenotazione di risorse condivise (sale riunioni, postazioni e attrezzature), sviluppato con PHP, MySQL e JavaScript. L’applicazione consente agli utenti di verificare la disponibilità in tempo reale, evitare conflitti tramite controlli automatici e lock temporanei, gestire le proprie prenotazioni e accedere a report sull’utilizzo delle risorse. Progettato per funzionare in ambiente locale con XAMPP, presenta un’architettura semplice e modulare facilmente estendibile.
 📌 Resource Booking System
 Sistema web completo per la gestione e prenotazione di risorse condivise (sale riunioni, postazioni di lavoro e attrezzature), sviluppato con PHP, MySQL e JavaScript.
